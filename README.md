@@ -1,6 +1,6 @@
 # Business-Analytics-Group-FYP
 
-A group project on Twitter and the 2016 US Eelction, submitted in partial fulfilment of the requirements for the degree of Masters of Science in Business Analytics.
+A group project on Twitter and the 2016 US Election, submitted in partial fulfilment of the requirements for the degree of Masters of Science in Business Analytics.
 
 This project acheived a second class honours grade one degree. 
 
